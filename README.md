@@ -38,4 +38,4 @@ See [CONTRIBUTING.md](https://github.com/coinshaz/unitedcore) on the main united
 Code released under [the MIT license](https://github.com/coinshaz/unitedcore/blob/master/LICENSE).
 
 Copyright 2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-Copyright 2016 The Litecoin Core Developers
+Copyright 2016 The Unitedcoin Core Developers
